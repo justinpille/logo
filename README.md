@@ -1,4 +1,16 @@
-# logo
+# Logo Z
+
+
+
+## First Steps
+
+Implement forward and right functions.
+
+## Then
+
+Implement up function
+
+
 
 ## References
 
@@ -17,12 +29,3 @@ https://www.amazon.com/Computer-Science-Logo-Style-Vol/dp/0262581485?ref_=nav_si
 ### 3js
 
 http://blog.teamtreehouse.com/the-beginners-guide-to-three-js
-
-
-## First Steps
-
-Implement forward and right functions.
-
-## Then
-
-Implement up function
