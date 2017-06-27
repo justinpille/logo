@@ -1,8 +1,25 @@
 # Logo Z
 
+Logo is a programming environment for learners. In school I learned geometry with x and y coordinates for about 4 years before z was introduced. I can remember the flood of curiosity. Was it just an additional variable, or a new plane of existence for the imagination?
+
+The ultimate goal of this program is to bring that same magic to Logo.
+
+# Prior Art
+
+# The Design
+
+# Progress
+
+## Goal 1
+
+## Goal 2
+
+## Goal 3
+
+...
 
 
-## First Steps
+## For example,
 
 Implement forward and right functions.
 
