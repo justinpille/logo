@@ -2,7 +2,7 @@
 
 Logo is a programming environment for learners. In school I learned geometry with x and y coordinates for about 4 years before z was introduced. I can remember the flood of curiosity. Was it just an additional variable, or a new plane of existence for the imagination?
 
-The ultimate goal of this program is to bring that same magic to Logo.
+The ultimate goal of this program is to bring that same wonder to Logo.
 
 # Prior Art
 
